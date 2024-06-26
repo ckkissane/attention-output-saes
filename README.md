@@ -1,5 +1,8 @@
 Code to reproduce key results accompanying "Interpreting Attention Layer Outputs with Sparse Autoencoders" by Kissane et al. 2024. 
 
+* [Paper](https://arxiv.org/abs/2406.17759)
+* [Blog posts](https://www.alignmentforum.org/s/FzGeLpkzDgzGhigLm)
+
 ## Contents
 
 * `train.py` contains code to train GPT-2 Small Attention Output SAEs (Table 2).
