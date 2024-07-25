@@ -4,6 +4,7 @@ Code to reproduce key results accompanying "Interpreting Attention Layer Outputs
 
 * [Paper](https://arxiv.org/abs/2406.17759)
 * [Blog posts](https://www.alignmentforum.org/s/FzGeLpkzDgzGhigLm)
+* [Attention Circuit Explorer](https://robertzk.github.io/circuit-explorer) ([Loom video example](https://www.loom.com/share/9836bdc0398b4178bc7ae91f0ab244a9))
 
 ## Contents
 
