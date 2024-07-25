@@ -1,3 +1,5 @@
+# Attention Output Sparse Autoencoders
+
 Code to reproduce key results accompanying "Interpreting Attention Layer Outputs with Sparse Autoencoders" by Kissane et al. 2024. 
 
 * [Paper](https://arxiv.org/abs/2406.17759)
