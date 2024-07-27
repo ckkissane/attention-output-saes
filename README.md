@@ -1,4 +1,4 @@
-# Attention Output Sparse Autoencoders
+# [Paper: Attention Output Sparse Autoencoders](https://arxiv.org/abs/2406.17759)
 
 Welcome from ICML 2024! In this repository, you will find the code to
 reproduce key results accompanying "Interpreting Attention Layer Outputs
